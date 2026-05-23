@@ -220,6 +220,13 @@ This is the correct executive structure for customer segmentation reporting beca
 
 **Executive Decision:** Protect this segment through premium engagement, early access programs, and personalized upsell strategies. 
 
+
+
+<img width="750" height="102" alt="image" src="https://github.com/user-attachments/assets/cb5457de-c5ce-4b98-a570-600a40e3370d" />
+
+
+
+
 ### 4. Loyal Customers
 **Business Question:** How strong is the stable repeat-purchase customer base? 
 
